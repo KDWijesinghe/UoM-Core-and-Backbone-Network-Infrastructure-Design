@@ -6,7 +6,7 @@ This project focuses on designing a scalable and cost-effective campus network f
   <img src="Images/ENTC_LAN.png" width="70%" />
 </p>
 
-The network design follows a **hybrid topology**, combining a **ring-based backbone with partial mesh connectivity** and **star-based LANs within buildings**. This approach improves reliability through redundancy, reduces cabling costs compared to full mesh designs, and allows easy scalability as new buildings or departments are added. Layer 3 switches are used for high-speed routing within the backbone, while VLAN-based segmentation is used to organize the network efficiently.
+The network design follows a **hybrid topology**, combining a **ring-based backbone with partial mesh connectivity** and **star-based LANs within buildings**. This approach improves reliability through redundancy, reduces cabling costs compared to full mesh designs, and allows easy scalability as new buildings or departments are added. Layer 3 switches are used for high speed routing within the backbone, while VLAN-based segmentation is used to organize the network efficiently.
 
 <p align="center">
   <img src="Images/UoM_Backbone.png" width="70%" />
